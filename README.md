@@ -9,7 +9,6 @@
 - 📫 How to reach me **epoaquizacango@cifpfbmoll.eu**
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lisb3th21&title_color=FFA759&icon_color=FFD580&bg_color=1F2430&text_color=FFCC66&layout=compact)
-
 <a href="http://www.github.com/lisb3th21"><img src="https://github-readme-streak-stats.herokuapp.com/?user=lisb3th21&stroke=ffffff&background=1c1917&ring=0891b2&fire=0891b2&currStreakNum=ffffff&currStreakLabel=0891b2&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
 
 ![trophy](https://github-profile-trophy.vercel.app/?username=lisb3th21&theme=onedark)
