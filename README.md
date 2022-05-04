@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Lisbeth Poaquiza <img height="40" src="https://emoji.gg/assets/emoji/5887-animalcrossdance.gif"></h1>
+<h1 align="center">Hi, I'm Lisbeth Poaquiza <img height="40" src="https://emoji.gg/assets/emoji/5887-animalcrossdance.gif"></h1>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=lisb3th21&label=Profile%20views&color=0e75b6&style=flat" alt="lisb3th21" /> </p>
 
