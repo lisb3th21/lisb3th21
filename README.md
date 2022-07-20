@@ -1,6 +1,8 @@
 <h1 align="center">Hi, I'm Lisbeth Poaquiza <img height="40" src="https://emoji.gg/assets/emoji/5887-animalcrossdance.gif"></h1>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=lisb3th21&label=Profile%20views&color=0e75b6&style=flat" alt="lisb3th21" /> </p>
+![status](https://img.shields.io/endpoint?url=https://dev.discordprofiles.me/api/badge/status/535941724623863808?simple=true)
+[![spotify](https://img.shields.io/endpoint?url=https://dev.discordprofiles.me/api/badge/spotify/287574458963722240)]((https://dev.discordprofiles.me/openspotify/535941724623863808))
+ <img src="https://komarev.com/ghpvc/?username=lisb3th21&label=Profile%20views&color=0e75b6&style=flat" alt="lisb3th21" /> 
 
 - 🔭 I’m currently studying on **CIFP Francesc de Borja Moll**
 
