@@ -23,10 +23,14 @@
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=lisb3th21&show_icons=true&theme=github_dark )
 
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=lisb3th21&theme=dark" alt="lisb3th21" /></p>
+
 <!--
 <a href="http://www.github.com/lisb3th21">    <img src="https://github-readme-streak-stats.herokuapp.com/?user=lisb3th21&stroke=ffffff&background=1c1917&ring=0891b2&fire=0891b2&currStreakNum=ffffff&currStreakLabel=0891b2&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
 -->
 
 ****
 
-![snake gif](https://github.com/lisb3th21/lisb3th21/blob/output/github-contribution-grid-snake.gif)
+![snake gif](https://github.com/lisb3th21/lisb3th21/blob/output/github-contribution-grid-snake.svg)
+![GitHub Snake Light](github-snake.svg#gh-light-mode-only)
+
