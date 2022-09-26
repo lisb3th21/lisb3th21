@@ -1,17 +1,15 @@
 <h1 align="center">Hi, I'm Lisbeth Poaquiza <img height="40" src="https://emoji.gg/assets/emoji/5887-animalcrossdance.gif"></h1>
 
+[![Twitter Badge](https://badgen.net/badge/icon/twitter?icon=twitter&label)](https://twitter.com/lxslis)
+[![discord](https://img.shields.io/badge/contact-me-blue?logo=discord&logoColor=white)](https://discordapp.com/users/535941724623863808)
+ <img src="https://komarev.com/ghpvc/?username=lisb3th21&label=Profile%20views&color=0e75b6&style=flat" alt="lisb3th21" />
+
+
 - 🔭 I’m currently studying on **CIFP Francesc de Borja Moll**
 
 - 🌱 I’m currently learning **Cross-platform application development**
 
 - 📫 How to reach me **epoaquizacango@cifpfbmoll.eu**
-
-<h2 align:"center"> 📫 Contacto </h2>
-
-[![Twitter Badge](https://badgen.net/badge/icon/twitter?icon=twitter&label)](https://twitter.com/lxslis)
-[![discord](https://img.shields.io/badge/contact-me-blue?logo=discord&logoColor=white)](https://discordapp.com/users/535941724623863808)
- <img src="https://komarev.com/ghpvc/?username=lisb3th21&label=Profile%20views&color=0e75b6&style=flat" alt="lisb3th21" />
-
 
 <h2 align="center">📈 Mi Actividad</h2>
 
