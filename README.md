@@ -28,7 +28,5 @@
 -->
 
 ****
-<p align="center">
-<!--SNAKE-->
-   <img src="https://github.com/lisb3th21/lisb3th21/blob/output/github-contribution-grid-snake.svg" alt="snake">
-</p>
+
+![snake gif](https://github.com/lisb3th21/lisb3th21/blob/output/github-contribution-grid-snake.gif)
