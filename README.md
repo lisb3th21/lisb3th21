@@ -12,7 +12,6 @@
 [![discord](https://img.shields.io/badge/contact-me-blue?logo=discord&logoColor=white)](https://discordapp.com/users/535941724623863808)
  <img src="https://komarev.com/ghpvc/?username=lisb3th21&label=Profile%20views&color=0e75b6&style=flat" alt="lisb3th21" />
 
-***
 
 <h2 align="center">📈 Mi Actividad</h2>
 
