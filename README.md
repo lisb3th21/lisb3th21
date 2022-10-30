@@ -11,7 +11,7 @@
 
 - 📫 How to reach me **epoaquizacango@cifpfbmoll.eu**
 
-<h2 align="center">📈 Mi Actividad</h2>
+<h2 align="center">📈 My activity</h2>
 
 <p align="center">
 
