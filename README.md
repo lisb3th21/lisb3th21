@@ -13,7 +13,7 @@
 
 <h2 align="center">📈 My activity</h2>
 
-<p align="center">
+<center>
 
 <a href="http://www.github.com/lisb3th21"><img loading="lazy" src="https://activity-graph.herokuapp.com/graph?username=lisb3th21&bg_color=27272a&color=ffffff&line=0891b2&point=ffffff&area_color=27272a&area=true&hide_border=true&custom_title=GitHub%20Commits%20Graph" alt="GitHub Commits Graph" height="150"/></a>
 
@@ -23,7 +23,7 @@
 
 <a href="http://www.github.com/lisb3th21"><img loading="lazy" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lisb3th21&hide=html/?username=lisb3th21&layout=compact&theme=dark&hide_border=true&bg_color=27272a&color=ffffff" alt="GitHub Commits Graph" height="150"/></a>
 
-</p>
+</center>
 
 <h2 align="center">Commits </h2>
 
