@@ -22,16 +22,16 @@
 <!--START_SECTION:waka-->
 
 ```text
-From: 24 October 2022 - To: 31 October 2022
+From: 25 October 2022 - To: 01 November 2022
 
-Total Time: 5 hrs 44 mins
+Total Time: 8 hrs 16 mins
 
-XML              2 hrs 46 mins   ████████████░░░░░░░░░░░░░   48.34 %
-Java             2 hrs 42 mins   ███████████▓░░░░░░░░░░░░░   47.26 %
-GitIgnore file   15 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   04.38 %
-Properties       0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.02 %
-Gradle           0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 %
-Markdown         0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 %
+Java             3 hrs 23 mins   ██████████▒░░░░░░░░░░░░░░   41.09 %
+XML              2 hrs 55 mins   █████████░░░░░░░░░░░░░░░░   35.47 %
+YAML             38 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   07.73 %
+Markdown         30 mins         █▓░░░░░░░░░░░░░░░░░░░░░░░   06.20 %
+Python           17 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   03.58 %
+GitIgnore file   15 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.04 %
 ```
 
 <!--END_SECTION:waka-->
