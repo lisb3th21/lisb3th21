@@ -5,11 +5,9 @@
  <img src="https://komarev.com/ghpvc/?username=lisb3th21&label=Profile%20views&color=0e75b6&style=flat" alt="lisb3th21" />
  [![wakatime](https://wakatime.com/badge/user/9e72577d-b160-438c-93e4-cdb2f903dde2.svg)](https://wakatime.com/@9e72577d-b160-438c-93e4-cdb2f903dde2)
 
-- 🔭 I’m currently studying on **CIFP Francesc de Borja Moll**
 
-- 🌱 I’m currently learning **Cross-platform application development**
 
-- 📫 How to reach me **epoaquizacango@cifpfbmoll.eu**
+- 📫 How to reach me **poaquizalisbeth0@gmail.com**
 
 <h2 align="center">📈 My activity</h2>
 <h2 align="center">
